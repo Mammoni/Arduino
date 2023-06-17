@@ -1,0 +1,6 @@
+Opis działania prostego clickera:
+
+1. Zliczanie kliknięć: Po wciśnięciu przycisku inkrementuje się licznik kliknięć.
+2. Wyświetlanie na ekranie LCD informacji o zapalonej diodzie: Na wyświetlaczu LCD wyświetlana jest informacja o aktualnym stanie diody LED. Przy każdej zmianie diody, informacja na wyświetlaczu jest aktualizowana.
+3. Generowanie sygnału dźwiękowego za pomocą buzzera: Po zmianie koloru diody LED generowany jest sygnał dźwiękowy za pomocą buzzera. Każda zmiana diody jest sygnalizowana dźwiękiem.
+Podsumowując, po wciśnięciu przycisku clicker wykonuje trzy czynności: zlicza kliknięcia, wyświetla na ekranie LCD informację o aktualnie zapalonej diodzie LED oraz generuje sygnał dźwiękowy za pomocą buzzera po każdej zmianie koloru diody LED.
